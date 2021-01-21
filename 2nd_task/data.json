@@ -1,0 +1,72 @@
+{
+    "resume": {
+        "fullname": "Ivan Chaliadzinski",
+        "position": "Junior Javascript Developer",
+        "phone": "+375296811909",
+        "email": "ivan.chaliadzinski@gmail.com",
+        "sex": "male",
+        "age": 19,
+        "image": "assets/images/photo.jpg",
+        "sections": [{
+            "title": "Summary",
+            "isOpen": true,
+            "items": [{
+                "title": "",
+                "subTitle": "",
+                "from": "",
+                "to": "",
+                "items": ["I’m a junior at the Belarusian State University of Informatics and Radioelectronics. Nowadays data is a very important thing that you need to be able to work with, and that is why I’m looking for an opportunity to improve my skills in this field."]
+            }]
+        }, {
+            "title": "Skills",
+            "isOpen": true,
+            "items": [{
+                "title": "Programming Languages and Side Knowledge",
+                "subTitle": "",
+                "from": "",
+                "to": "",
+                "items": ["SQL, MySQL, C++, JavaScript, Java(Android development), HTML, CSS"]
+            }]
+        }, {
+            "title": "Education",
+            "isOpen": true,
+            "items": [{
+                "title": "Belarusian State University of Informatics and Radioelectronics",
+                "subTitle": "Automated Data Processing Systems",
+                "from": "2018",
+                "to": "2022",
+                "items": []
+            }]
+        }, {
+            "title": "Experience",
+            "isOpen": true,
+            "items": [{
+                "title": "Courses",
+                "subTitle": "",
+                "from": "",
+                "to": "",
+                "items": ["Rolling Scopes School"]
+            }]
+        }, {
+            "title": "Languages",
+            "isOpen": false,
+            "items": [{
+                "title": "English",
+                "subTitle": "",
+                "from": "",
+                "to": "",
+                "items": ["Upper-intermediate"]
+            }]
+        }, {
+            "title": "Additional information",
+            "isOpen": false,
+            "items": [{
+                "title": "Hobbies",
+                "subTitle": "",
+                "from": "",
+                "to": "",
+                "items": ["Volleyball", "Swimming"]
+            }]
+        }]
+    }
+}
